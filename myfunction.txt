@@ -12,3 +12,4 @@ created a new branch for chart functionality
 
 Now I have added a function to the master branch
 Now I created another update in the navigation branch which will be merged to the master
+I have added code for chekout
