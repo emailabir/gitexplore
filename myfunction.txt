@@ -7,3 +7,5 @@ Newfunction - New function added
 Newerfunction - Newer function added
 
 New div is added to the master branch
+
+created a new branch for chart functionality 
