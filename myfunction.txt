@@ -11,3 +11,4 @@ New div is added to the master branch
 created a new branch for chart functionality 
 
 Now I have added a function to the master branch
+Now I created another update in the navigation branch which will be merged to the master
