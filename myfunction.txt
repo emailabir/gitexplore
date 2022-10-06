@@ -1,4 +1,4 @@
-onefunction - I have created a very important function.
+onefunction - I have added one OK function.
 twofunction - I have created another very important function.
 threefunction - I have created an unnecessary function.
 
@@ -12,4 +12,8 @@ created a new branch for chart functionality
 
 Now I have added a function to the master branch
 Now I created another update in the navigation branch which will be merged to the master
+<<<<<<< HEAD
 I have added code for chekout
+=======
+added a new function to login user via X method
+>>>>>>> confly
